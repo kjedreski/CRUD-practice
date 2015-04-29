@@ -1,0 +1,96 @@
+
+
+
+
+body.mainBG{
+background-color: lightgreen;
+}
+
+
+
+
+/* class assignment requirements */
+#name {
+font-family: Verdana;
+}
+
+#date {
+font-family: Tahoma;
+text-decoration: underline;
+}
+
+#assignment {
+font-family: Verdana;
+color: red;
+}
+
+#class-title {
+font-family: Verdana;
+color:blue;
+}
+
+#user-list {
+text-decoration: underline;
+}
+/* end of class requiremenbts */
+
+#editForm {
+position: absolute;
+}
+
+#addForm{
+position: absolute;
+}
+
+#pageTitle{
+
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+#block2 {
+border: 2px solid yellow;
+border-radius: 25px;
+background-color: purple;
+padding: 5px;
+padding-left: 12px;
+padding-right: 12px;
+margin-top: 150px;
+
+}
+
+
+
+#outputBlock{
+border: 2px solid yellow;
+border-radius: 25px;
+background-color: lightgrey;
+width: 90px;
+float: left;
+position: reletive;
+padding-left: 500px;
+color: purple;
+font-family: Tahoma;
+margin-left: 400px;
+padding: 10px;
+text-align: center;
+}
+
+
+#block1 {
+border: 2px solid yellow;
+border-radius: 25px;
+background-color: lightgrey;
+padding: 5px;
+padding-left: 12px;
+padding-right: 12px;
+padding: 12px;
+float: left; 
+clear: both;
+display: block;
+overflow: auto;
+}
+
+
+
